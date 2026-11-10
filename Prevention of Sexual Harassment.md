@@ -1,4 +1,4 @@
-# PoSH (Prevention of Sexual Harassment) – Cheatsheet
+# PoSH (Prevention of Sexual Harassment) 
 
 ## 1. Meaning of Sexual Harassment
 
@@ -39,7 +39,7 @@ Sexual harassment is any **unwanted behaviour of a sexual nature** that makes a 
 |---|---|
 | PoSH | Prevention of Sexual Harassment |
 | IC | Internal Committee |
-| ICC | Internal Complaints Committee (commonly used term) |
+| ICC | Internal Complaints Committee (commonly Prevention of Sexual Harassmentused term) |
 | Workplace | Office or other work-related locations and settings |
 | Retaliation | Taking negative action against someone for reporting harassment or participating in an investigation |
 | Confidentiality | Keeping complaint and investigation details private |
@@ -52,5 +52,3 @@ Sexual harassment is any **unwanted behaviour of a sexual nature** that makes a 
 - Everyone has a responsibility to maintain a safe workplace.
 - Complaints should be handled fairly and confidentially.
 - Retaliation against someone who reports harassment is not acceptable.
-
-**Remember:** Respect others, maintain professional boundaries, and report sexual harassment through the appropriate workplace channel.
